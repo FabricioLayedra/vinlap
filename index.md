@@ -8,7 +8,7 @@ You can find the official repository, [here](https://github.com/clips/gsoc2019_v
 
 Welcome to viNLaP: Visualizing Natural Language Processing on polarized data sources!
 
-This project was conceived due to the need of visualize polarized data easily and effectively. The first version of vinLAp aims to show an overview of the MAGA corpus, crawled in GSoC 2018 by Maja Goudoz- For doing so, it focuses on three aspects, each one modeled with a specific type of visualization. These aspects are: variability of the vocabulary by each side using Scattertexts, speech changes between geographic regions using GeoSpeech and, speech generation from a specific word using Speech Igniters.
+This project was conceived due to the need of visualize polarized data easily and effectively. The first version of vinLAp aims to show an overview of the MAGA corpus, crawled in GSoC 2018 by Maja Goudoz- For doing so, it focuses on three aspects. These aspects are: variability of the vocabulary by each side using Scattertexts, speech changes between geographic regions using GeoSpeech and, speech generation from a specific word using Speech Igniters.
 
 ---
 
