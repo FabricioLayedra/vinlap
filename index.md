@@ -1,9 +1,3 @@
-Final Report of GSoC 2019 CLiPS Project "viNLaP".
-
-You can find the official repository, [here](https://github.com/clips/gsoc2019_vinlap) . 
-
----
-
 # viNLaP
 
 Welcome to viNLaP: Visualizing Natural Language Processing on polarized data sources!
@@ -51,3 +45,8 @@ For speechigniters, I suggest to try different search in the trees generated wit
 
 It was developed by 2019 GSoC student, @FabricioLayedra; under the supervision of Guy De Pauw.
 
+Final Report of GSoC 2019 CLiPS Project "viNLaP".
+
+You can find the official repository, [here](https://github.com/clips/gsoc2019_vinlap) . 
+
+---
