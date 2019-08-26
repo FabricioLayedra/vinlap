@@ -8,7 +8,7 @@ This project was conceived due to the need of visualize polarized data easily an
 
 ### Modules
 
-[Scattertexts](/sample_page)
+[Scattertexts](/repvsdem.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
