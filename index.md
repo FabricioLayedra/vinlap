@@ -1,6 +1,6 @@
 Final Report of GSoC 2019 CLiPS Project "viNLaP".
 
-You can find the official repository, [here](https://github.com/clips/gsoc2019_vinlap) . This page is just an introduction to the work done during this project.
+You can find the official repository, [here](https://github.com/clips/gsoc2019_vinlap) . 
 
 ---
 
